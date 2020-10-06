@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TrendyolShoppingCard.Business\TrendyolShoppingCard.Business.csproj" />
+    <ProjectReference Include="..\TrendyolShoppingCard.Model\TrendyolShoppingCard.Model.csproj" />
+  </ItemGroup>
+
+</Project>
